@@ -1,1 +1,1 @@
-You can find the publication of this paper in: https://www.hindawi.com/journals/ijh/2022/6046677/
+Most of the data analysis was done by me. This documentation serves as the proof of my contribution in data analysis. You can find the publication of this paper in: https://www.hindawi.com/journals/ijh/2022/6046677/
